@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <attr name="frist_color" format="color"/>
+    <attr name="second_color" format="color"/>
+    <attr name="circl_width" format="dimension"/>
+    <attr name="dot_count" format="integer"/>
+    <attr name="split_size" format="integer"/>
+    <attr name="bg" format="reference"/>
+    <attr name="progress" format="integer"/>
+    <attr name="pointSize" format="integer"/>
+    <declare-styleable name="voice_view">
+        <attr name="frist_color"/>
+        <attr name="second_color"/>
+        <attr name="circl_width"/>
+        <attr name="dot_count"/>
+        <attr name="split_size"/>
+        <attr name="bg"/>
+        <attr name="progress"/>
+        <attr name="pointSize"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+   <com.zhwl.viewtext.MyView3
+       android:layout_width="200dp"
+       android:layout_height="200dp"
+       app:color_backgrond="#f00"
+       app:color_move="#0f0"
+       app:speed="100"
+       app:width="20dp"
+       app:text_size="20dp"
+       />
+
+</LinearLayout>
